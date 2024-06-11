@@ -5,7 +5,7 @@ import PersonalProfile from './Component/PersonalProfile';
 function App() {
   return (
     <>
-      <div className='h-screen' style={{background:"#16161d"}}>
+      <div className='h-100vh' style={{background:"#16161d"}}>
         <PersonalProfile />
       </div>
     </>
