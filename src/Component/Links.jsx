@@ -2,10 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import Vignaharta from "../Asset/Screenshot (160).png";
-import gymweb from "../Asset/Screenshot (135).png";
-import portfololio from "../Asset/Screenshot (166).png";
-import Filmyverse from "../Asset/Screenshot (110).png";
+import Vignaharta from "../Asset/eventmanagement.png";
+import gymweb from "../Asset/gymwebpage.png";
+import portfololio from "../Asset/profile.png";
+import Filmyverse from "../Asset/Filmyverse.png";
+import Construction from "../Asset/Construction.png";
 const projects = [
   {
     id: 1,
@@ -31,11 +32,17 @@ const projects = [
     path: "https://filmyverse-movie-review.vercel.app/",
     img: Filmyverse,
   },
+  {
+    id: 5,
+    name: "Construction Web page ",
+    path: "https://construction-web-aditya-project.vercel.app/",
+    img: Construction,
+  },
 ];
 
 const ProjectCard = ({ name, path, img }) => (
   <Link to={path} className="block">
-    <div className="lg:h-20 h-16 rounded-2xl flex justify-between lg:px-4 px-2 items-center shadow mb-5 Linkcard">
+    <div className="lg:h-20 h-16 rounded-2xl flex justify-between lg:px-4 px-2 items-center shadow mb-5 Linkcard font-chakra">
       <img
         src={img}
         alt={`${name} logo`}
