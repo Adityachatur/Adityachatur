@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 const PersonalProfile = () => {
   return (
     <>
-      <div className="h-auto" style={{ background: "#141619" }}>
+      <div className="h-auto" style={{ background: "#141645" }}>
         <div className="w-full lg:h-80 h-36 mainbg rounded-t-[40px] flex items-end justify-center">
           <img
             src={personalimg}
