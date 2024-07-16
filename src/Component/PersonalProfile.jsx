@@ -4,14 +4,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faEnvelope,
   faLocationDot,
-  faMobile,
   faPhone,
 } from "@fortawesome/free-solid-svg-icons";
-import {
-  faGithub,
-  faInstagram,
-  faLinkedinIn,
-} from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import Links from "./Links";
 import { Link } from "react-router-dom";
 
@@ -55,14 +50,6 @@ const PersonalProfile = () => {
                 className="icon  hover:bg-gray-950 transition-all duration-300 ease-in"
               />
             </Link>
-            {/* <Link to={}>
-            <div
-              className="items-center justify-center flex shadow rounded-full cursor-pointer hover:bg-black transition-all duration-300 ease-in "
-              style={{ width: "50px" }}
-            >
-              <img src={vercellogo} alt="" className="w-8 h-8" />
-            </div>
-          </Link> */}
           </div>
           <Links />
           <div className=" space-x-5  h-20 items-center flex justify-center">
