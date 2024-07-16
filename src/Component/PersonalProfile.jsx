@@ -31,7 +31,9 @@ const PersonalProfile = () => {
           style={{ background: "#141619" }}
         >
           <div>
-            <h1 className="text-3xl font-semibold mb-2 font-noto-serif uppercase tracking-wide text-white">Aditya Chatur</h1>
+            <h1 className="text-3xl font-semibold mb-2 font-noto-serif uppercase tracking-wide text-white">
+              Aditya Chatur
+            </h1>
             <h2 className="space-x-2 lg:text-xl text-lg font-normal text-gray-600">
               <FontAwesomeIcon icon={faLocationDot} /> <span>Pune</span>
             </h2>
