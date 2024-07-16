@@ -2,11 +2,7 @@
 
 <h1 align="center">Hello I am Aditya Anil Chatur</h1>
 <h3 align="left">Passionate about creating an awesome websites using React.js</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachatur&label=Profile%20views&color=0e75b6&style=flat" alt="adityachatur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityachatur" alt="adityachatur" /></a> </p>
-
+<img align="right" src="https://www.shutterstock.com/shutterstock/videos/1105406741/thumb/1.jpg?ip=x480"/>
 - 🌱 I’m currently learning **MERN Stack Course**
 
 - Website-link [https://adityachaturmedia.vercel.app/](https://adityachaturmedia.vercel.app/)
