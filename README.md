@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello I am Aditya Anil Chatur</h1>
 <h3 align="left">Passionate about creating an awesome websites using React.js</h3>
-<img align="right" src="https://www.shutterstock.com/shutterstock/videos/1105406741/thumb/1.jpg?ip=x480"/>
 - 🌱 I’m currently learning **MERN Stack Course**
 
 - Website-link [https://adityachaturmedia.vercel.app/](https://adityachaturmedia.vercel.app/)
