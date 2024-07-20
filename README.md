@@ -3,6 +3,7 @@
 <h1 align="center">Hello I am Aditya Anil Chatur</h1>
 <h3 align="left">Passionate about creating an awesome websites using React.js</h3>
 - 🌱 I’m currently learning **MERN Stack Course**
+![UI-UX design](https://github.com/user-attachments/assets/a67350b4-24aa-47e7-9071-3586599ad48a)
 
 - Website-link [https://adityachaturmedia.vercel.app/](https://adityachaturmedia.vercel.app/)
 
