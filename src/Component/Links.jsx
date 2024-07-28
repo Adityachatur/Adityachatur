@@ -7,6 +7,7 @@ import gymweb from "../Asset/gymwebpage.png";
 import portfololio from "../Asset/profile.png";
 import Filmyverse from "../Asset/Filmyverse.png";
 import Construction from "../Asset/Construction.png";
+import architecture from "../Asset/ruizarch-architecture.png";
 const projects = [
   {
     id: 1,
@@ -28,12 +29,18 @@ const projects = [
   },
   {
     id: 4,
+    name: "Ruizarch Architecture Website",
+    path: "https://ruizarch-architecture-website.vercel.app/",
+    img: architecture,
+  },
+  {
+    id: 5,
     name: "Filmy Verse Movies Review System",
     path: "https://filmyverse-movie-review.vercel.app/",
     img: Filmyverse,
   },
   {
-    id: 5,
+    id: 6,
     name: "Construction Web page ",
     path: "https://construction-web-aditya-project.vercel.app/",
     img: Construction,
